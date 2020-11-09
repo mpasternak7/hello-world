@@ -1,2 +1,2 @@
 # hello-world
-a repository to learn/test stuff
+a repository to learn / test stuff.
